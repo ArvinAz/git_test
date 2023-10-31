@@ -1,1 +1,2 @@
 This is my introduction to the Odin Project
+This is where I get my data and proactice
